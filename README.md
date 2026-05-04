@@ -1,23 +1,109 @@
-# Electivo de Probabilidad y Estadística Descriptiva e Inferencial.
+# Electivo de Probabilidad y Estadística Descriptiva e Inferencial para 3° y 4° medio
 
-## Motivación y Propósito
+## Repositorio de apoyo para la asignatura de Probabilidades y Estadística Descriptiva e Inferencial en educación media
 
-El objetivo es utilizar herramientas de análisis de datos con enfoque a la comprensión de los conceptos estadísticos que forman parte de los planes y programas de este curso electivo.
+El material está diseñado para su uso en **Sala de Computación**, con énfasis en el trabajo con datos, el uso de herramientas digitales y el desarrollo del pensamiento estadístico. Aunque en un principio se pensó en aplicarlo en la sala de clases con apoyo de celulares, pero dada la reciente prohibición de su uso, y para evitar el trabajo extra que implica su uso actualmente es que se ha rediseñado, lo que no quita el hecho de que si un colega quiere hacerlo pueda realizar dicha implementación cumpliendo con la normativa vigente, al utilizar la plataforma de Google Colab, es factible usar cualquier dispositivo con conexión a internet y navegador web.
 
-El avance tecnológico nos permite actualmente realizar una gran cantidad de cálculos de forma bastante rápida, lo que nos dejaen un escenario donde analizar grandes volúmenes de información es posible y hasta obligatorio, sobre todo si nuestro enfoque es el desarrollo de habilidades de pensamiento superior en los estudiantes.
+---
+---
 
-Lo vemos, lo expresamos, reflexionamos en torno a esta "nueva realidad", pero en la práctica diaria llegamos tarde, nuestros estudiantes siguen calculando a mano medidas de tendencia central, medidas de dispersión, probabilidades y otras cosas más como si eso fuera lo que de verdad importa, confundiendose y perdiéndose en cálculos engorrosos y quedándose con la idea de que "eso es hacer estadística", cuando la realidad es otra.
+## Propósito del repositorio
 
-Veo la necesidad, la he vivido, y de esa necesidad e intentando aportar algo a las diversas comunidades educativas es que me permito compartir herramientas de análisis de datos que ayuden a enfocarnos en esas habilidades de pensamiento superior, porque tengo la formación, la experiencia en el aula (no encerrado en una oficina tomando decisiones fuera de contexto) y el conocimiento tanto técnico como pedagógico, lo que no significa que esta iniciativa no sea perfectible, siempre se puede mejorar, y esta plataforma permite precisamente eso, descargar, probar, modificar, usar.
+Este repositorio tiene como objetivo proporcionar recursos que permitan a docentes y estudiantes:
 
-## Diagramación
+- trabajar con datos en entornos reproducibles (notebooks)
+- utilizar herramientas digitales para el análisis de información
+- desarrollar habilidades de interpretación y toma de decisiones basadas en evidencia
+- abordar problemas en contextos reales mediante datos
 
-He ordenado esto siguiendo las unidades definidas en el programa de estudio  del electivo de **Probabilidad y Estadísticas Descriptiva e Inferencial**, agregando una **Unidad 0** a modo de preparación en los temas asociados a los lenguajes Python y R, asi como los famosos Notebooks que sirven para reaizar estos análisis de forma ordenada, podría utilizar scripts y una estructura de paquetería instalable, pero se complicaría para quienes no tienen conocimientos previos de programación, intento seguir el principio KISS, así que si esperan encontrar un tutorial completo de Python o R, este no es el lugar para encontrarlo.
+---
+---
 
-### Licencia
+## Organización del repositorio
 
-Para el código:
-<a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text">GNU V3</a>
+El contenido se organiza por unidades:
 
-Para el contenido:
-<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
+- `Unidad0`: Introducción al trabajo con datos
+- `Unidad1`: Análisis de gráficos y representación de datos
+- `Unidad2`: Medidas estadísticas y análisis de variables
+- `Unidad3`: Probabilidad y modelos
+- `Unidad4`: Inferencia estadística
+
+Cada unidad contiene:
+
+- temas organizados en carpetas independientes
+- notebooks ejecutables
+- archivos de apoyo (datos)
+- orientaciones para el docente (`docente.md`)
+
+---
+---
+
+## ¿Cómo usar este material?
+
+- Cada unidad puede adaptarse según el contexto del establecimiento.
+- Los temas están diseñados para ser flexibles en su implementación.
+- Se recomienda seguir la ruta sugerida dentro de cada unidad.
+- Los notebooks pueden ejecutarse directamente en Google Colab.
+
+---
+---
+
+## Enfoque pedagógico
+
+El material se basa en:
+
+- aprendizaje a partir de datos
+- uso de representaciones para comprender fenómenos
+- interpretación de resultados en contexto
+- desarrollo del pensamiento crítico
+
+Se prioriza la comprensión por sobre el cálculo mecánico.
+
+---
+---
+
+## Relación con el programa
+
+El repositorio se alinea con el enfoque del programa del :contentReference[oaicite:0]{index=0}, promoviendo:
+
+- integración de conocimientos, habilidades y actitudes
+- uso de tecnologías digitales en el aprendizaje
+- desarrollo del pensamiento estadístico en contextos de incertidumbre
+
+---
+---
+
+## Requisitos técnicos
+
+Para utilizar este material se requiere:
+
+- Acceso a internet
+- Navegador web actualizado
+- Una cuenta de Google (para uso de Google Colab)
+
+No es necesario instalar software adicional.
+
+---
+---
+
+## Licencia
+
+Este repositorio utiliza un esquema de licencia dual:
+
+- Para el código
+[Licencia GNU V3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
+
+- Para el contenido
+[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Se permite el uso, adaptación y distribución del material, respetando las condiciones de cada licencia.
+
+### Autor
+
+Henzo Alejandro Arrué Muñoz
+Profesor de Enseñanza Media en Matemática y Estadística
+Licenciado en Educación Matemática
+Especialista en Machine Learning y Data Science
+
+Contacto: [henzo.profe.mate@gmail.com](mailto:henzo.profe.mate@gmail.com)
