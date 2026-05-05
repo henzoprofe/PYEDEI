@@ -11,10 +11,10 @@ El material está diseñado para su uso en **Sala de Computación**, con énfasi
 
 Este repositorio tiene como objetivo proporcionar recursos que permitan a docentes y estudiantes:
 
-- trabajar con datos en entornos reproducibles (notebooks)
-- utilizar herramientas digitales para el análisis de información
-- desarrollar habilidades de interpretación y toma de decisiones basadas en evidencia
-- abordar problemas en contextos reales mediante datos
+- Trabajar con datos en entornos reproducibles (notebooks)
+- Utilizar herramientas digitales para el análisis de información
+- Desarrollar habilidades de interpretación y toma de decisiones basadas en evidencia
+- Abordar problemas en contextos reales mediante datos
 
 ---
 ---
@@ -31,10 +31,10 @@ El contenido se organiza por unidades:
 
 Cada unidad contiene:
 
-- temas organizados en carpetas independientes
-- notebooks ejecutables
-- archivos de apoyo (datos)
-- orientaciones para el docente (`docente.md`)
+- Temas organizados en carpetas independientes
+- Notebooks ejecutables
+- Archivos de apoyo (datos)
+- Orientaciones para el docente (`docente.md`)
 
 ---
 ---
@@ -53,10 +53,10 @@ Cada unidad contiene:
 
 El material se basa en:
 
-- aprendizaje a partir de datos
-- uso de representaciones para comprender fenómenos
-- interpretación de resultados en contexto
-- desarrollo del pensamiento crítico
+- Aprendizaje a partir de datos
+- Uso de representaciones para comprender fenómenos
+- Interpretación de resultados en contexto
+- Desarrollo del pensamiento crítico
 
 Se prioriza la comprensión por sobre el cálculo mecánico.
 
@@ -67,9 +67,9 @@ Se prioriza la comprensión por sobre el cálculo mecánico.
 
 El repositorio se alinea con el enfoque del programa del :contentReference[oaicite:0]{index=0}, promoviendo:
 
-- integración de conocimientos, habilidades y actitudes
-- uso de tecnologías digitales en el aprendizaje
-- desarrollo del pensamiento estadístico en contextos de incertidumbre
+- Integración de conocimientos, habilidades y actitudes
+- Uso de tecnologías digitales en el aprendizaje
+- Desarrollo del pensamiento estadístico en contextos de incertidumbre
 
 ---
 ---
@@ -91,11 +91,9 @@ No es necesario instalar software adicional.
 
 Este repositorio utiliza un esquema de licencia dual:
 
-- Para el código
-[Licencia GNU V3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
+- Para el código: [Licencia GNU V3.0](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 
-- Para el contenido
-[Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Para el contenido: [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Se permite el uso, adaptación y distribución del material, respetando las condiciones de cada licencia.
 
@@ -105,5 +103,7 @@ Henzo Alejandro Arrué Muñoz
 Profesor de Enseñanza Media en Matemática y Estadística
 Licenciado en Educación Matemática
 Especialista en Machine Learning y Data Science
+
+### En caso de existir dudas, sugerencias o para compartir experiencias de uso, no dude en contactarme. Estoy abierto a colaboraciones, mejoras y adaptaciones del material para enriquecer la experiencia de aprendizaje de los estudiantes
 
 Contacto: [henzo.profe.mate@gmail.com](mailto:henzo.profe.mate@gmail.com)
