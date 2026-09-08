@@ -1,0 +1,18 @@
+author,title,year,journal,doi,valid_year,valid_required,valid_doi,is_valid
+Juan Perez,Study 4,2024,,10.1000/4,True,True,True,True
+Maria Lopez,Study 5,2022,,10.1000/5,True,True,True,True
+Juan Perez,Study 6,2021,Revista Medica,10.1000/6,True,True,True,True
+Pedro Soto,Study 8,2022,,10.1000/8,True,True,True,True
+Juan Perez,Study 11,2024,Revista Medica,10.1000/11,True,True,True,True
+Juan Perez,Study 22,2020,,10.1000/22,True,True,True,True
+Maria Lopez,Study 28,2022,,10.1000/28,True,True,True,True
+Ana Ruiz,Study 29,2022,,10.1000/29,True,True,True,True
+Pedro Soto,Study 34,2023,Ciencia Hoy,10.1000/34,True,True,True,True
+Juan Perez,Study 37,2020,Journal Data,10.1000/37,True,True,True,True
+Juan Perez,Study 39,2023,Revista Ciencia,10.1000/39,True,True,True,True
+Juan Perez,Study 44,2021,Revista Ciencia,10.1000/44,True,True,True,True
+Carlos Gomez,Study 47,2020,Revista Medica,10.1000/47,True,True,True,True
+Carlos Gomez,Study 51,2020,Revista Ciencia,10.1000/51,True,True,True,True
+Juan Perez,Study 54,2021,Revista Medica,10.1000/54,True,True,True,True
+Juan Perez,Study 55,2020,Revista Medica,10.1000/55,True,True,True,True
+Ana Ruiz,Study 56,2023,Revista Medica,10.1000/56,True,True,True,True

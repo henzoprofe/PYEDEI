@@ -1,0 +1,42 @@
+author,title,year,journal,doi,valid_year,valid_required,valid_doi,is_valid
+Pedro Soto,Study 0,202X,Ciencia Hoy,,False,True,False,False
+Juan Perez,Study 1,2023,Ciencia Hoy,,True,True,False,False
+Pedro Soto,Study 2,,,,False,False,False,False
+Ana Ruiz,Study 3,2023,Ciencia Hoy,,True,True,False,False
+Juan Perez,Study 7,2021,Revista Ciencia,,True,True,False,False
+Maria Lopez,Study 9,202X,Revista Ciencia,,False,True,False,False
+Maria Lopez,Study 10,,Revista Ciencia,,False,False,False,False
+Carlos Gomez,Study 12,2020,Revista Ciencia,,True,True,False,False
+Pedro Soto,Study 13,202X,Journal Data,10.1000/13,False,True,True,False
+Juan Perez,Study 14,2022,Journal Data,,True,True,False,False
+Pedro Soto,Study 15,2021,Journal Data,,True,True,False,False
+Ana Ruiz,Study 16,2020,Revista Ciencia,,True,True,False,False
+Juan Perez,Study 17,2024,,,True,True,False,False
+Juan Perez,Study 18,2023,Revista Medica,,True,True,False,False
+Juan Perez,Study 19,2022,,,True,True,False,False
+Maria Lopez,Study 20,202X,Revista Ciencia,,False,True,False,False
+Juan Perez,Study 21,2020,Revista Medica,,True,True,False,False
+Maria Lopez,Study 23,2024,Journal Data,,True,True,False,False
+Pedro Soto,Study 24,202X,Ciencia Hoy,,False,True,False,False
+Pedro Soto,Study 25,,Journal Data,,False,False,False,False
+Ana Ruiz,Study 26,2022,Journal Data,,True,True,False,False
+Juan Perez,Study 27,,Journal Data,,False,False,False,False
+Ana Ruiz,Study 30,,Revista Ciencia,,False,False,False,False
+Ana Ruiz,Study 31,202X,Revista Ciencia,,False,True,False,False
+Juan Perez,Study 32,2020,Journal Data,,True,True,False,False
+Pedro Soto,Study 33,2020,Ciencia Hoy,,True,True,False,False
+Juan Perez,Study 35,202X,Ciencia Hoy,,False,True,False,False
+Pedro Soto,Study 36,2024,Journal Data,,True,True,False,False
+Ana Ruiz,Study 38,2021,Ciencia Hoy,,True,True,False,False
+Juan Perez,Study 40,,,,False,False,False,False
+Maria Lopez,Study 41,202X,Revista Medica,,False,True,False,False
+Pedro Soto,Study 42,202X,Revista Ciencia,,False,True,False,False
+Ana Ruiz,Study 43,2021,,,True,True,False,False
+Juan Perez,Study 45,2023,Journal Data,,True,True,False,False
+Juan Perez,Study 46,202X,Ciencia Hoy,,False,True,False,False
+Juan Perez,Study 48,,Journal Data,10.1000/48,False,False,True,False
+Carlos Gomez,Study 49,,Ciencia Hoy,10.1000/49,False,False,True,False
+Juan Perez,Study 50,2020,Journal Data,,True,True,False,False
+Maria Lopez,Study 52,2023,Revista Ciencia,,True,True,False,False
+Maria Lopez,Study 53,2021,Revista Ciencia,,True,True,False,False
+Maria Lopez,Study 57,2022,Journal Data,,True,True,False,False
